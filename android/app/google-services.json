@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350387541479",
+    "project_id": "kurakani-b14f9",
+    "storage_bucket": "kurakani-b14f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350387541479:android:2ab067700a9508e783d942",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350387541479-h6gdtugec8m9eeav79nr6r4jf81hpjpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFIYIArpHSpeEH85eb2VFstwpr_JlYDB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350387541479-h6gdtugec8m9eeav79nr6r4jf81hpjpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
